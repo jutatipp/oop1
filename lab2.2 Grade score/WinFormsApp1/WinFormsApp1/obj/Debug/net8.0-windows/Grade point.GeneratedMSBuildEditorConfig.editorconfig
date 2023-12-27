@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Grade_point
-build_property.ProjectDir = D:\oop1\lab2.2\WinFormsApp1\WinFormsApp1\
+build_property.ProjectDir = D:\oop1\lab2.2 Grade score\WinFormsApp1\WinFormsApp1\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
